@@ -1,0 +1,4 @@
+Multiplication for Floating Point includes:
+  1. Shift and plus
+  2. Booth Algortithm
+  3. Wallace tree
